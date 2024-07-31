@@ -1,4 +1,4 @@
-# Data_Analysis_Excel
+# Data Analysis On Excel With Interactive Dashboard
 # Hotel Reservation Data Analysis
 This project involves a comprehensive data analysis of a hotel reservation dataset using Excel. The focus is on understanding the patterns and trends related to reservation cancellations.
 
